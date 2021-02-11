@@ -3,7 +3,7 @@
 <!--
 **mohammed-adil-moughal/mohammed-adil-moughal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m a Fullstack Software Developer...
+- 🔭 I’m a Software Developer...
 - 😄 PHP ✨, JS ✨, REACT, NODE, LARAVEL, ZEND
 - ⚡ Fun fact : Rubber duck programming actually works
 
