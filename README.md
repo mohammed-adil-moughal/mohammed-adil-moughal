@@ -3,8 +3,8 @@
 <!--
 **mohammed-adil-moughal/mohammed-adil-moughal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 I’m a Software Developer...
-- 😄 PHP ✨, JS ✨, REACT, NODE, LARAVEL, ZEND
+- 🔭 I’m a Software Developer with a focus on Backend Development...
+- 😄 PHP ✨, JS ✨, NODE, LARAVEL, ZEND
 - ⚡ Fun fact : Rubber duck programming actually works
 
 
