@@ -26,4 +26,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="20" src="https://resources.jetbrains.com/storage/products/phpstorm/img/meta/phpstorm_logo_300x300.png"></code>
 
+<!---
 ![github stats](https://github-readme-stats.vercel.app/api?username=mohammed-adil-moughal&show_icons=true&hide_border=true&prs_private=true&count_private=true&theme=dark)
+-->
