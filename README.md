@@ -6,7 +6,7 @@
 
 🔭 I’m a Software Developer with a focus on Backend Development...
 
-⚡ Fun fact : Rubber duck programming actually works
+⚡ Fun fact : Rubber duck programmer
 
 
 #### Language & Data:
